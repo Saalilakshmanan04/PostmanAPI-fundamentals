@@ -3,47 +3,35 @@
 A complete collection built as part of Postman's API Fundamentals Student Expert certification.
 This project demonstrates essential API concepts like REST, HTTP methods, parameters, variables, authorization, scripts, environment usage, and real-world API workflows.
 
-🚀 Project Overview
+## 🚀 Project Overview
+- Postman Collection for API Testing  
+- Environment Variables (Base URL, API Keys, IDs)  
+- Authorization setup using Bearer Token  
+- SkillCheck API Requests (POST, GET)  
+- Sample JSON Body for Raw Requests  
+- Automated Tests in Postman  
+- Properly Structured Request Folders  
+- Error Handling and Status Code Validation  
 
-This project contains all required API requests to complete the Postman API Fundamentals Student Expert course:
-
-✔ GET Books
-✔ GET Fiction Books
-✔ GET Book By ID
-✔ POST Add a Book
-✔ PATCH Checkout a Book
-✔ DELETE a Book
-✔ POST Skill Check (Movie API)
 
 Each request correctly uses parameters, variables, collection-level authorization, and test scripts.
 
-📁 What’s Included
+## 📁 What’s Included
 
 This repository includes:
 
-Postman Library API v2.postman_collection.json — The exported Postman collection
+- Postman Library API v2.postman_collection.json — The exported Postman collection
+- Full CRUD operations on the Library API
+- Skillcheck API request using Postman Echo
+- Test scripts for variable handling (saving id, favoriteActor)
+- Demonstration of best Postman practices
 
-Full CRUD operations on the Library API
-
-Skillcheck API request using Postman Echo
-
-Test scripts for variable handling (saving id, favoriteActor)
-
-Demonstration of best Postman practices
-
-🔧 Key Concepts Used
-1. HTTP Methods
-
-GET – Fetch data
-POST – Add new data
-PATCH – Update a property
-DELETE – Remove a resource
-
-2. Variables
-3. Authorization
-4. Query Params
-5. Body (JSON)
-and Skill Check JSON
+## Key Concepts
+- API Testing  
+- Variables & Environments  
+- Authorization  
+- Collections  
+- CRUD Requests (POST, GET, PUT, DELETE)
 
 Open Postman.
 Click Import
