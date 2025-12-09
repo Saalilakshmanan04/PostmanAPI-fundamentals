@@ -46,12 +46,10 @@ DELETE – Remove a resource
 and Skill Check JSON
 
 Open Postman.
-Badge recieved: https://badges.parchment.com/public/assertions/KyPUnNFBTvS4Oih3Nm_6lg?identity__email=saalilakshmanan04%40gmail.com
-
 Click Import
 
 Upload the .json file from this repo
-
 Select the collection
+Follow requests in order to test the entire workflow.
 
-Follow requests in order to test the entire workflow
+Badge recieved: https://badges.parchment.com/public/assertions/KyPUnNFBTvS4Oih3Nm_6lg?identity__email=saalilakshmanan04%40gmail.com
