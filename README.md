@@ -40,4 +40,5 @@ Upload the .json file from this repo
 Select the collection
 Follow requests in order to test the entire workflow.
 
-Badge recieved: https://badges.parchment.com/public/assertions/KyPUnNFBTvS4Oih3Nm_6lg?identity__email=saalilakshmanan04%40gmail.com
+[![Parchment Badge](https://badges.parchment.com/public/assertions/KyPUnNFBTvS4Oih3Nm_6lg/image)](https://badges.parchment.com/public/assertions/KyPUnNFBTvS4Oih3Nm_6lg?identity__email=saalilakshmanan04%40gmail.com)
+
